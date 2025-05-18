@@ -15,13 +15,13 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Hands Health"
+title                    : "건강염려증의 블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Hand"
-description              : "This is a blog that posts all health-related articles. I hope everyone stays healthy."
+description              : "이 블로그는 건강 관련 모든 글을 게시하는 블로그입니다. 모두가 건강하길 바랍니다."
 url                      : "https://handshealth.info"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -84,7 +84,7 @@ google:
 # SEO Related
 google_site_verification :
 bing_site_verification   :
-naver_site_verification  :
+naver_site_verification  : "4609ac716d729d866973f75de6aa0c8cde223027"
 yandex_site_verification :
 baidu_site_verification  :
 
